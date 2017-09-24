@@ -1,0 +1,48 @@
+Part     Value
+C1       10 uF Tantalum Capacitor
+C2       .1 uF Ceramic Capacitor
+C3       .1 uF Ceramic Capacitor
+C4       .1 uF Ceramic Capacitor
+C5       .1 uF Ceramic Capacitor
+C6       .1 uF Ceramic Capacitor
+C7       .1 uF Ceramic Capacitor
+C8       .1 uF Ceramic Capacitor
+C9       .1 uF Ceramic Capacitor
+C10      .1 uF Ceramic Capacitor
+C11      680 pF Ceramic Capacitor
+C12      680 pF Ceramic Capacitor
+C13      680 pF Ceramic Capacitor
+C14      680 pF Ceramic Capacitor
+C15      .22 uF Ceramic Capacitor
+C16      .22 uF Ceramic Capacitor
+C17      100 uF Electrolytic Capacitor
+C18      100 uF Electrolytic Capacitor
+C19      100 uF Electrolytic Capacitor
+C20      100 uF Electrolytic Capacitor
+C21      100 uF Electrolytic Capacitor
+C22      100 uF Electrolytic Capacitor
+C23      .15 uF Ceramic Capacitor
+C24      .15 uF Ceramic Capacitor
+C25      470 uF Electrolytic Capacitor
+C26      470 uF Electrolytic Capacitor
+IC1      74LS32
+IC2      74LS245
+IC3      74LS138
+IC4      74LS138
+IC5      74LS374
+IC6      74LS74
+IC7      SAA1099
+IC8      SAA1099
+IC9      TEA2025
+JP1      6x2 pin header
+R1       1k 1/4 W
+R2       10k 1/4 W
+R3       10k 1/4 W
+R4       1.5k 1/4 W
+R5       1.5k 1/4 W
+R6       10k 1/4 W
+R7       10k 1/4 W
+R8       10K dual audio taper potentiometer
+RN1      8 pin 4.7K bussed SIP resistor network
+X1       3.5mm stereo audio jack
+Bracket  Keystone 9202 EISA/ISA PCB Bracket
